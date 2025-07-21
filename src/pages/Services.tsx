@@ -32,15 +32,7 @@ import {
   Type,
   FileCode,
   Gauge,
-  Presentation,
-  FileSpreadsheet,
-  Image,
-  Globe,
-  RotateCw,
-  Lock,
-  Unlock,
-  Droplets,
-  Minimize2
+
 } from 'lucide-react';
 
 interface ToolCard {
