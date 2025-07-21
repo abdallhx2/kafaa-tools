@@ -23,7 +23,7 @@ interface HomePageProps {
 const HomePage = ({ searchQuery, filteredTools, allTools, categories }: HomePageProps) => {
   return (
     <div className="min-h-screen rtl" dir="rtl">
-      <div className="max-w-8xl mx-auto px-4  space-y-8">
+      <div className="max-w-8xl mx-auto px-4 ">
 
         {/* نتائج البحث */}
         {searchQuery && (

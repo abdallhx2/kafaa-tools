@@ -157,7 +157,7 @@
 
 ```bash
 # استنساخ المشروع
-git clone https://github.com/yourusername/kafaa-tools.git
+git clone https://github.com/abdallhx2/kafaa-tools.git
 cd kafaa-tools
 
 # تثبيت التبعيات باستخدام Bun (الأسرع)
@@ -278,7 +278,7 @@ kafaa-tools/
 - **🌐 الموقع المباشر**: [kafaa-tools.vercel.app](https://kafaa-tools.vercel.app)
 - **📱 تطبيق PWA**: يمكن تثبيته على الهاتف
 - **📚 الوثائق**: [docs.kafaa-tools.com](https://docs.kafaa-tools.com)
-- **🐛 الإبلاغ عن خطأ**: [GitHub Issues](https://github.com/yourusername/kafaa-tools/issues)
+- **🐛 الإبلاغ عن خطأ**: [GitHub Issues](https://github.com/abdallhx2/kafaa-tools/issues)
 
 ---
 
@@ -295,10 +295,10 @@ kafaa-tools/
 
 <div align="center">
   
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/kafaa-tools)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/kafaa-tools)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/kafaa-tools)
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/kafaa-tools)
+  ![GitHub stars](https://img.shields.io/github/stars/abdallhx2/kafaa-tools)
+  ![GitHub forks](https://img.shields.io/github/forks/abdallhx2/kafaa-tools)
+  ![GitHub issues](https://img.shields.io/github/issues/abdallhx2/kafaa-tools)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/abdallhx2/kafaa-tools)
   
 </div>
 
