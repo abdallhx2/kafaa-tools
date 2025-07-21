@@ -32,7 +32,7 @@ const Header = ({ searchQuery, onSearchChange, categories, featuredTools }: Head
         <div className="flex justify-center mb-8">
               <img src="/logo.png" alt="Logo" className="h-30 w-32" />
         </div>
-        <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold text-black bg-clip-text text-transparent leading-tight">
+        <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold text-black">
           كفاءة
         </h1>
         <p className="text-base md:text-lg text-muted-foreground/80 max-w-3xl mx-auto leading-relaxed">
