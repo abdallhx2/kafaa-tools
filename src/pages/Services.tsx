@@ -9,7 +9,6 @@ import HomePage from '@/components/layout/HomePage';
 // Import icons
 import { 
   FileText, 
-  FileImage, 
   Scan, 
   ImageIcon, 
   Eraser, 
@@ -17,7 +16,7 @@ import {
   Key, 
   Palette, 
   DollarSign, 
-  Scissors, 
+  
   Camera,
   Ruler,
   Shuffle,
