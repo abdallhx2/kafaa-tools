@@ -100,7 +100,7 @@ const Services = () => {
     { id: 'advanced-url-shortener', title: 'تقصير الروابط', description: 'تقصير الروابط وضمان عملها', icon: Shrink, category: 'utilities', popular: true },
     { id: 'font-generator', title: 'مولد ومعاين الخطوط', description: 'معاينة وتجربة الخطوط المختلفة مع تخصيص كامل', icon: Type, category: 'utilities' },
     { id: 'json-editor', title: 'محرر ومنسق JSON', description: 'تنسيق وتحليل وتحرير ملفات JSON مع التحقق من الصحة', icon: FileCode, category: 'utilities' },
-    { id: 'speed-test', title: 'قياس سرعة الإنترنت', description: 'اختبار شامل لسرعة الإنترنت مع قياس التحميل والرفع والاستجابة', icon: Gauge, category: 'utilities', popular: true },
+    { id: 'speed-test', title: 'قياس سرعة الإنترنت', description: 'اختبار شامل لسرعة الإنترنت مع قياس التحميل والرفع والاستجابة', icon: Gauge, category: 'utilities',  },
   ];
 
   const categories = {

@@ -161,7 +161,7 @@ const BackgroundRemover = () => {
           </div>
           <CardTitle className="text-3xl gradient-text mb-2">إزالة خلفية الصور</CardTitle>
           <CardDescription className="text-muted-foreground text-lg">
-            إزالة الخلفية من الصور باستخدام تقنية الذكاء الاصطناعي المتقدمة
+            إزالة الخلفية من الصور باستخدام تقنية الذكاء الاصطناعي
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-6">
@@ -213,8 +213,6 @@ const BackgroundRemover = () => {
                     </SelectTrigger>
                     <SelectContent>
                       <SelectItem value="preview">معاينة (سريع)</SelectItem>
-                      <SelectItem value="full">كامل (متوسط)</SelectItem>
-                      <SelectItem value="50MP">عالي جداً (بطيء)</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
